@@ -1,0 +1,11 @@
+C:\Users\azivanovic\source\repos\nextApp\NextApp\NextApp\NextApp\bin\Release\netstandard2.0\NextApp.deps.json
+C:\Users\azivanovic\source\repos\nextApp\NextApp\NextApp\NextApp\bin\Release\netstandard2.0\NextApp.dll
+C:\Users\azivanovic\source\repos\nextApp\NextApp\NextApp\NextApp\bin\Release\netstandard2.0\NextApp.pdb
+C:\Users\azivanovic\source\repos\nextApp\NextApp\NextApp\NextApp\obj\Release\netstandard2.0\App.xaml.g.cs
+C:\Users\azivanovic\source\repos\nextApp\NextApp\NextApp\NextApp\obj\Release\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\azivanovic\source\repos\nextApp\NextApp\NextApp\NextApp\obj\Release\netstandard2.0\NextApp.AssemblyInfoInputs.cache
+C:\Users\azivanovic\source\repos\nextApp\NextApp\NextApp\NextApp\obj\Release\netstandard2.0\NextApp.AssemblyInfo.cs
+C:\Users\azivanovic\source\repos\nextApp\NextApp\NextApp\NextApp\obj\Release\netstandard2.0\NextApp.csproj.CoreCompileInputs.cache
+C:\Users\azivanovic\source\repos\nextApp\NextApp\NextApp\NextApp\obj\Release\netstandard2.0\XamlC.stamp
+C:\Users\azivanovic\source\repos\nextApp\NextApp\NextApp\NextApp\obj\Release\netstandard2.0\NextApp.dll
+C:\Users\azivanovic\source\repos\nextApp\NextApp\NextApp\NextApp\obj\Release\netstandard2.0\NextApp.pdb
